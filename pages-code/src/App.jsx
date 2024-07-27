@@ -5,7 +5,7 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
-  return (g
+  return (
     <>
       <div>
         <img src={Logo} className="logo" alt="logo" />
